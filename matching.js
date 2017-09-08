@@ -72,7 +72,7 @@ var response = initialize();
 initialize()
 
 // click on square to reveal color
-// not yet implemented
+// Not yet implemented
 function onClickColor(name) {
   hash[name].color = "purple";
   holdColor = hash[name].color;

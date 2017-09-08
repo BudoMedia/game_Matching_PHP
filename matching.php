@@ -10,8 +10,8 @@
   <body>
     <table>
       <tr>
-        <td><button class="box" id="box1" type="button" onmouseover="highlight('box1')" onmouseleave="unhighlight('box1')">.</button></td>
-      </tr>
+        <td><button class="box" id="box1" type="button" onmouseover="highlight('box1')" onmouseleave="unhighlight('box1')" onclick="onClickColor('box1')">.</button></td>
+    </tr>
     </table>
   </body>
 
