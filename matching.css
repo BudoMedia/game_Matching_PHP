@@ -1,0 +1,40 @@
+* {
+  margin: 0px auto;
+  border: 0px solid red;
+  padding: 0px;
+}
+
+body {
+  background-color: blue;
+}
+
+table {
+  background-color: grey;
+  border-collapse: collapse;
+}
+
+td {
+  background-color: orange;
+}
+
+.box {
+  border: 5px solid green;
+  width: 240px;
+  height: 240px;
+  /*display: inline-block;*/
+}
+
+#box1 {
+  background-color: green;
+}
+
+button {
+  margin: 0px auto;
+  border: none;
+  padding: 0px;
+  font-size: 0%;
+}
+
+button:focus {
+  outline: 0px;
+}
